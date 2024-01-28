@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Ваш сайт</title>
+
+</head>
+
+<body>
+
+
+
+    <h1>Сайт знатоков магии</h1>
+
+    <p>На данной странице представлены базовые элементы магии которые можно будет смешать с другими элементами. Для смешивания и просмотра базовых элементов нажмите на текст под изображением элемента.</p>
+
+
+
+    <h2 id="раздел1">Вода</h2>
+
+<img src=https://img.freepik.com/premium-vector/wave-icon-water-motion-symbol-clean-nature-sign-isolated-on-white-background_176411-3060.jpg style="width: 50px; height: auto; margin-top: 20px;">
+
+    <a href=content://com.rs.explorer.filemanager.files/storage/emulated/0/Download/Browser/%D0%A1%D0%B0%D0%B9%D1%82%D1%8B%20%D0%9C%D0%B0%D0%B3%D0%B8%D0%B8/%D0%A1%D0%B0%D0%B9%D1%82%20%D0%B2%D0%BE%D0%B4%D1%8B.html>Вода</a>
+
+
+
+    <h2 id="раздел2">Земля</h2>
+
+<img src=https://p.turbosquid.com/ts-thumb/3M/Y3Hbev/zazU3vCd/earth_sym1/png/1561293962/600x600/fit_q87/4127e5ffce5ce4b74dca0d3c09a72a8be68a64ee/earth_sym1.jpg style="width: 50px; height: auto; margin-top: 20px;">
+
+    <a href="#раздел2">Земля</a>
+
+
+
+    <h2 id="раздел3">Огонь</h2>
+
+<img src=https://img.freepik.com/premium-vector/fire-hot-flame-symbol-burning-blazing-fire-icon-heat-danger-and-caution-sign-abstract-simple-campfire-pictogram-flammable-warning-vector-illustrations-isolated-on-the-white-background_501069-1761.jpg style="width: 50px; height: auto; margin-top: 20px;">
+
+    <a href="#раздел3">Огонь</a>
+
+
+
+    <h2 id="раздел4">Воздух</h2>
+
+<img src=https://media.istockphoto.com/id/1368763816/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA-%D0%B4%D1%83%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%B0-%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB-%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE%D0%B9-%D0%B7%D0%B0%D1%82%D1%8F%D0%B6%D0%BA%D0%B8.jpg?s=612x612&w=0&k=20&c=I0jPmTv01BVfrdOeiERt3IJgovkcxzTwNQpYf8n3m-Q= style="width: 50px; height: auto; margin-top: 20px;">
+
+    <a href="#раздел4">Воздух</a>
+
+
+
+
+
+</body>
+
+</html>
